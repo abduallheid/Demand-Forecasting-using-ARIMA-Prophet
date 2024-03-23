@@ -5,7 +5,7 @@
 This data science project delves into the analysis of retail inventory and sales data, aiming to uncover valuable insights and predict future demand. It leverages various data science techniques to empower informed decision-making within your business.
 
 **Key Features:**
-
+- jupyter notebook: 
 * **Data Cleaning and Preprocessing:**
     - Ensure data quality by addressing missing values, inconsistencies, and outliers.
     - Prepare the data for analysis by applying appropriate transformations and feature engineering.
@@ -32,7 +32,7 @@ This data science project delves into the analysis of retail inventory and sales
 * **Proactive Planning:** Plan for future demand fluctuations and adjust inventory and production levels accordingly.
 
 **Getting Started:**
-
+- Data Source: https://www.kaggle.com/datasets/dahaliahowell/retail-inventory-and-sales-data
 1. **Data Acquisition:**
     - Identify and gather relevant historical retail inventory and sales data.
     - Consider including data sources like sales records, point-of-sale systems, and external factors potentially affecting demand (e.g., holidays, weather patterns, marketing campaigns).
